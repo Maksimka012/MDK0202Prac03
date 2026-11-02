@@ -7,13 +7,13 @@
       "RelativeMoniker": "D:0:0:{43245921-8015-4BB6-AF95-9795878E2F5D}|Snake.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9421793E-5B2C-4BA7-8AEB-2AB1AD83755A}|..\\Common\\Common.csproj|c:\\users\\student-a502.permaviat\\desktop\\practica3\\common\\viewmodelusersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9421793E-5B2C-4BA7-8AEB-2AB1AD83755A}|..\\Common\\Common.csproj|c:\\users\\student-a502.permaviat\\desktop\\practica3\\common\\snakes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9421793E-5B2C-4BA7-8AEB-2AB1AD83755A}|..\\Common\\Common.csproj|c:\\users\\student-a502.permaviat\\desktop\\practica3\\common\\viewmodelgames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9421793E-5B2C-4BA7-8AEB-2AB1AD83755A}|..\\Common\\Common.csproj|c:\\users\\student-a502.permaviat\\desktop\\practica3\\common\\snakes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9421793E-5B2C-4BA7-8AEB-2AB1AD83755A}|..\\Common\\Common.csproj|c:\\users\\student-a502.permaviat\\desktop\\practica3\\common\\viewmodelusersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9421793E-5B2C-4BA7-8AEB-2AB1AD83755A}|..\\Common\\Common.csproj|c:\\users\\student-a502.permaviat\\desktop\\practica3\\common\\leaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -30,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ViewModelUserSettings.cs",
               "DocumentMoniker": "C:\\Users\\student-a502.PERMAVIAT\\Desktop\\Practica3\\Common\\ViewModelUserSettings.cs",
               "RelativeDocumentMoniker": "..\\Common\\ViewModelUserSettings.cs",
@@ -69,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Snakes.cs",
               "DocumentMoniker": "C:\\Users\\student-a502.PERMAVIAT\\Desktop\\Practica3\\Common\\Snakes.cs",
               "RelativeDocumentMoniker": "..\\Common\\Snakes.cs",
@@ -88,7 +88,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\student-a502.PERMAVIAT\\Desktop\\Practica3\\Snake\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAIwDMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAD4v3MAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-02T09:29:55.058Z",
               "EditorCaption": ""
