@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\MDK0202Prac03-master\\Snake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43245921-8015-4BB6-AF95-9795878E2F5D}|Snake.csproj|c:\\users\\admin\\desktop\\mdk0202prac03-master\\snake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43245921-8015-4BB6-AF95-9795878E2F5D}|Snake.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9421793E-5B2C-4BA7-8AEB-2AB1AD83755A}|..\\Common\\Common.csproj|C:\\Users\\Admin\\Desktop\\MDK0202Prac03-master\\common\\snakes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9421793E-5B2C-4BA7-8AEB-2AB1AD83755A}|..\\Common\\Common.csproj|C:\\Users\\Admin\\Desktop\\MDK0202Prac03-master\\common\\viewmodelgames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9421793E-5B2C-4BA7-8AEB-2AB1AD83755A}|..\\Common\\Common.csproj|C:\\Users\\Admin\\Desktop\\MDK0202Prac03-master\\common\\viewmodelusersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9421793E-5B2C-4BA7-8AEB-2AB1AD83755A}|..\\Common\\Common.csproj|C:\\Users\\Admin\\Desktop\\MDK0202Prac03-master\\common\\leaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewModelGames.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MDK0202Prac03-master\\Common\\ViewModelGames.cs",
+              "RelativeDocumentMoniker": "..\\Common\\ViewModelGames.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MDK0202Prac03-master\\Common\\ViewModelGames.cs",
+              "RelativeToolTip": "..\\Common\\ViewModelGames.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T19:14:57.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MDK0202Prac03-master\\Snake\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MDK0202Prac03-master\\Snake\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T19:14:57.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewModelUserSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MDK0202Prac03-master\\Common\\ViewModelUserSettings.cs",
+              "RelativeDocumentMoniker": "..\\Common\\ViewModelUserSettings.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MDK0202Prac03-master\\Common\\ViewModelUserSettings.cs",
+              "RelativeToolTip": "..\\Common\\ViewModelUserSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T19:14:57.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Leaders.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MDK0202Prac03-master\\Common\\Leaders.cs",
+              "RelativeDocumentMoniker": "..\\Common\\Leaders.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MDK0202Prac03-master\\Common\\Leaders.cs",
+              "RelativeToolTip": "..\\Common\\Leaders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T19:14:57.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Snakes.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MDK0202Prac03-master\\Common\\Snakes.cs",
+              "RelativeDocumentMoniker": "..\\Common\\Snakes.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MDK0202Prac03-master\\Common\\Snakes.cs",
+              "RelativeToolTip": "..\\Common\\Snakes.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T19:14:57.213Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
