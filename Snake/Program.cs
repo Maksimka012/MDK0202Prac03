@@ -139,13 +139,14 @@ namespace Snake
                 List<ViewModelGames> RemoteSnake = viewModelGames.FindAll(x => x.SnakesPlayers.GameOver);
                 if (RemoteSnake.Count > 0)
                 {
-                    foreach(ViewModelGames DeadSnake in RemoteSnake)
+                    foreach (ViewModelGames DeadSnake in RemoteSnake)
                     {
                         Console.ForegroundColor = ConsoleColor.Green;
-                        Console.WriteLine($"Отключил пользователя: {remoteIPAddress.Find(x=>x.IdSnake==DeadSnake.IdSnake).IPAddress}"+
-                            $":{remoteIPAddress.Find(x=>x.IdSnake==DeadSnake.IdSnake).Port}");
-                        remoteIPAddress.RemoveAll(x => x.IdSnake == DeadSnake.IdSnake);
+                        ViewModelUserSettings User = remoteIPAddress.Find(x => x.IdSnake == DeadSnake.IdSnake);
+                        Console.WriteLine($"Отключил пользователя:{User.IPAddress}:{User.Port}");
+                        remoteIPAddress.Remove(User);
                     }
+                    viewModelGames.RemoveAll(x => x.SnakesPlayers.GameOver == true);
                 }
                 foreach(ViewModelUserSettings User in remoteIPAddress)
                 {
