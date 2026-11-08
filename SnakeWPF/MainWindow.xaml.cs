@@ -29,6 +29,10 @@ namespace SnakeWPF
         {
             InitializeComponent();
             mainWindow = this;
+<<<<<<< HEAD
+=======
+            this.KeyUp += EventKeyUp;
+>>>>>>> e45c66d (Слил ветки)
             OpenPage(Home);
         }
 

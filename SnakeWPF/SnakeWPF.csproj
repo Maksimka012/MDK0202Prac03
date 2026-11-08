@@ -8,12 +8,20 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>SnakeWPF</RootNamespace>
     <AssemblyName>SnakeWPF</AssemblyName>
+<<<<<<< HEAD
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+=======
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+>>>>>>> e45c66d (Слил ветки)
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <WarningLevel>4</WarningLevel>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+<<<<<<< HEAD
+=======
+    <TargetFrameworkProfile />
+>>>>>>> e45c66d (Слил ветки)
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -124,6 +132,13 @@
       <Project>{9421793e-5b2c-4ba7-8aeb-2ab1ad83755a}</Project>
       <Name>Common</Name>
     </ProjectReference>
+<<<<<<< HEAD
+=======
+    <ProjectReference Include="..\Snake\Snake.csproj">
+      <Project>{43245921-8015-4bb6-af95-9795878e2f5d}</Project>
+      <Name>Snake</Name>
+    </ProjectReference>
+>>>>>>> e45c66d (Слил ветки)
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Image\background_2.jpg" />
