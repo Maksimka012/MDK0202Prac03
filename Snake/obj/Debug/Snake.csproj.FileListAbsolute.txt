@@ -10,3 +10,15 @@ C:\Users\Admin\Desktop\MDK0202Prac03-master\Snake\obj\Debug\Snake.csproj.CoreCom
 C:\Users\Admin\Desktop\MDK0202Prac03-master\Snake\obj\Debug\Snake.csproj.Up2Date
 C:\Users\Admin\Desktop\MDK0202Prac03-master\Snake\obj\Debug\Snake.exe
 C:\Users\Admin\Desktop\MDK0202Prac03-master\Snake\obj\Debug\Snake.pdb
+C:\Users\Admin\Desktop\MDK0202Prac03-master1\Snake\bin\Debug\Common.dll
+C:\Users\Admin\Desktop\MDK0202Prac03-master1\Snake\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\MDK0202Prac03-master1\Snake\bin\Debug\Common.pdb
+C:\Users\Admin\Desktop\MDK0202Prac03-master1\Snake\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\MDK0202Prac03-master1\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MDK0202Prac03-master1\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MDK0202Prac03-master1\Snake\obj\Debug\Snake.exe
+C:\Users\Admin\Desktop\MDK0202Prac03-master1\Snake\obj\Debug\Snake.pdb
+C:\Users\Admin\Desktop\MDK0202Prac03-master1\Snake\bin\Debug\Snake.exe.config
+C:\Users\Admin\Desktop\MDK0202Prac03-master1\Snake\bin\Debug\Snake.exe
+C:\Users\Admin\Desktop\MDK0202Prac03-master1\Snake\bin\Debug\Snake.pdb
+C:\Users\Admin\Desktop\MDK0202Prac03-master1\Snake\obj\Debug\Snake.csproj.Up2Date
